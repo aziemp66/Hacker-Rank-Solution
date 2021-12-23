@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch belanja",
+            "request": "launch",
+            "mainClass": "belanja",
+            "projectName": "Java Main Project_377427f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinMaxSum",
+            "request": "launch",
+            "mainClass": "ProblemSolving.Warmup.MinMaxSum.MinMaxSum",
+            "projectName": "Java Main Project_377427f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Staircase",
+            "request": "launch",
+            "mainClass": "ProblemSolving.Warmup.Staircase.Staircase",
+            "projectName": "Java Main Project_377427f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Staircase",
+            "request": "launch",
+            "mainClass": "ProblemSolving.Warmup.Staircase",
+            "projectName": "Java Main Project_377427f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch BerlanggananGUI",
+            "request": "launch",
+            "mainClass": "BerlanggananGUI",
+            "projectName": "Java Main Project_377427f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch PlusMinus",
+            "request": "launch",
+            "mainClass": "ProblemSolving.Warmup.PlusMinus",
+            "projectName": "Java Main Project_377427f5"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Java Main Project_377427f5"
+        }
+    ]
+}
